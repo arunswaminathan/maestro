@@ -6,4 +6,6 @@ Many computer science projects now involve runing programs on multiple machines,
 As an example, a researcher wants to run an experiment that is divided into 3 steps: populate a third party service, collect data from the service, and analyze the collected data. The data collection has to run an hour after population, but the analysis can start as soon as the data is collected. With Maestro, we can express this in just a few lines, as shown in 1.3.
 Prior related work in this area includes the so-called infrastructure configuration management frameworks, some of the most popular being Puppet and Chef . Typical infrastructure configuration management allows system administrators to ex- press infrastructure configuration dependencies. Our approach differs in that it provides end-users the ability to express dependencies related to job work-flows.
 
+The Lexer, Parser, and Abstract Syntax Tree was written almost entirely in Python with a little bit of Ruby scripts.
+
 Please refer to main.pdf for a detailed decription of the language whitepaper, the language reference manual, and a tutorial.
