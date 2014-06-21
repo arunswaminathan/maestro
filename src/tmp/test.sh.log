@@ -1,0 +1,108 @@
+STDOUT:
+---------
+Argument received: foo
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: bla
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: foo
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: bla
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: foo
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: bla
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: foo
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: bla
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: foo
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: bla
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: foo
+
+---------
+STDERR:
+---------
+
+#########
+STDOUT:
+---------
+Argument received: bla
+
+---------
+STDERR:
+---------
+
+#########
